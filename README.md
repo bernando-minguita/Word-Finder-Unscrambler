@@ -34,3 +34,7 @@ A lightweight Windows Forms application built with C# and .NET Framework that al
    * **Ends With**: Type in `textEnds` to find words ending with specific letters.
    * **Contains**: Use the general filter to find words containing specific sequences.
    * *Filters apply automatically after a search or as you type.*
+     
+<p align="left">
+  <img src="screenshots/app-main.png" alt="App Screenshot" width="600">
+</p>
