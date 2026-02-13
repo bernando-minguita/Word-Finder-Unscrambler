@@ -92,7 +92,7 @@
             this.btnSearch.Location = new System.Drawing.Point(252, 11);
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(72, 20);
-            this.btnSearch.TabIndex = 4;
+            this.btnSearch.TabIndex = 2;
             this.btnSearch.Text = "Search";
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.BtnSearch_Click);
@@ -121,7 +121,7 @@
             this.textFilter.Location = new System.Drawing.Point(118, 102);
             this.textFilter.Name = "textFilter";
             this.textFilter.Size = new System.Drawing.Size(100, 20);
-            this.textFilter.TabIndex = 8;
+            this.textFilter.TabIndex = 5;
             this.textFilter.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.textFilter.TextChanged += new System.EventHandler(this.TextFilter_TextChanged);
             // 
@@ -148,7 +148,7 @@
             this.textStarts.Location = new System.Drawing.Point(12, 102);
             this.textStarts.Name = "textStarts";
             this.textStarts.Size = new System.Drawing.Size(100, 20);
-            this.textStarts.TabIndex = 11;
+            this.textStarts.TabIndex = 4;
             this.textStarts.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.textStarts.TextChanged += new System.EventHandler(this.TextFilter_TextChanged);
             // 
@@ -157,7 +157,7 @@
             this.textEnds.Location = new System.Drawing.Point(224, 102);
             this.textEnds.Name = "textEnds";
             this.textEnds.Size = new System.Drawing.Size(100, 20);
-            this.textEnds.TabIndex = 12;
+            this.textEnds.TabIndex = 6;
             this.textEnds.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.textEnds.TextChanged += new System.EventHandler(this.TextFilter_TextChanged);
             // 
